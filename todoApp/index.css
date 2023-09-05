@@ -1,0 +1,16 @@
+table{
+    border: 2px solid midnightblue;
+    border-collapse:collapse ;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table>thead>tr>th{
+    border: 2px solid midnightblue;
+    padding: 10px;
+}
+table>tbody>tr>td,td>button{
+    border: 2px solid midnightblue;
+    padding: 10px;
+    margin: auto;
+}
